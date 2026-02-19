@@ -20,11 +20,11 @@ export default function Home() {
 
         <section className="mb-8 grid grid-cols-2 gap-3 text-xs text-gray-600">
           <div className="rounded-2xl bg-orange-50 p-3">
-            <p className="font-semibold text-orange-600">질문 4개</p>
+            <p className="font-semibold text-orange-600">1시간 점심 추천</p>
             <p className="mt-1 text-[11px] leading-snug">
-              한 번에 하나씩 천천히
+              정문 기준 도보권 식당을
               <br />
-              고르기만 하면 돼요.
+              추천해요.
             </p>
           </div>
           <div className="rounded-2xl bg-amber-50 p-3">
